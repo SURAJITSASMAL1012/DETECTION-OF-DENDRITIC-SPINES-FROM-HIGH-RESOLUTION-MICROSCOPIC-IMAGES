@@ -1,0 +1,7 @@
+#path:../datasets/coco128 #dataset root dir
+train: /content/drive/MyDrive/spine_detection/data/train/images # train images(relatuve to 'path')
+val: /content/drive/MyDrive/spine_detection/data/val/images # val images(relative to 'path')
+
+#classes
+nc: 1 #number of the classes
+names: ['.'] #class names
